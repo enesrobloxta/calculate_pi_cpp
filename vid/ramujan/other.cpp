@@ -1,5 +1,10 @@
 /***************************************************************
+ This code is not mine
+ 
+ https://gist.github.com/komasaru/68f209118edbac0700da
+ 
  * Computing pi by Binary Splitting Algorithm with GMP libarary.
+ 
  **************************************************************/
 #include <cmath>
 #include <iostream>
