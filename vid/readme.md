@@ -1,2 +1,4 @@
-ı didn't finish this folder and ı will not finish it(cuz ı am lazy).
-these codes are working but they dont work well 
+ı didn't finish the ramanujan folder, programs are working but they are not performing well.
+the nilkantha s method doing much better.
+ı know chudvosky s method is the fastest but ı am too lazy to recode it,so ı ma gonna abandon it.
+
